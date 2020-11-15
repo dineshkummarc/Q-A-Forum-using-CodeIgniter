@@ -23,7 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/cieg';
+// $config['base_url'] = 'http://localhost/cieg';
+$config['base_url'] = 'http://local.rocket.co.in:8081/CheckThesePortals/Q-A-Forum-using-CodeIgniter/';
 
 /*
 |--------------------------------------------------------------------------
